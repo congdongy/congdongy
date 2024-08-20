@@ -1,16 +1,17 @@
-## Hi there 👋
+## Công Đông Y
 
-<!--
-**congdongy/congdongy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Công Đông Y là Blog thông tin chia sẻ thông tin vị thuốc, cây thuốc, bài thuốc, lý luận, châm cứu, huyệt vị nhằm giúp bạn đọc có thêm kiến thức Đông Y.
 
-Here are some ideas to get you started:
+- Địa chỉ: Hiệp Lực - Ninh Giang - Hải Dương
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SĐT: 0869377629
+
+- Website: https://congdongy.com
+
+https://vimeo.com/congdongy
+
+https://www.youtube.com/channel/UCrVOPrbymSv5DE5Z-fGZNYQ
+
+https://www.deviantart.com/congdongy
+
+https://www.twitch.tv/congdongy
